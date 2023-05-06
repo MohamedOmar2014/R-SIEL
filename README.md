@@ -1,5 +1,5 @@
 # Recursive SINDY EULER LAGRANGE (R-SIEL)
-R-SIEL: Is a new a lgorithm for discovering dyanmic equations of serial manipulators.
+R-SIEL: Is a new algorithm for discovering dyanmic equations of serial manipulators.
 The algorithm was applied on three different robots: ABB SCARA, UR5, and KUKA KR4 AGILUS
 
 Contents:
@@ -10,4 +10,4 @@ Contents:
 Dependencies:
 * MATLAB
 * SIMULINK
-* Multi body dynamics tool box
+* Multi body dynamics toolbox
