@@ -8,6 +8,6 @@ Contents:
 * The code that is used to compare the discovered dynamic model of the proposed a lgorithm with simulation data and Euler Lagrange Equations.  
 
 Dependencies:
-* MATLAB
+* MATLAB R2022b
 * SIMULINK
 * Multi body dynamics toolbox
