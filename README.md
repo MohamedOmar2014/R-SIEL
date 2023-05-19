@@ -11,3 +11,6 @@ Dependencies:
 * MATLAB R2022b
 * SIMULINK
 * Multi body dynamics toolbox
+
+The data sets for all robots can be found through the following link:
+https://drive.google.com/drive/folders/1VWYIqk5KzFHpCCCPqHI37CsCHGrmJJHF?usp=share_link
