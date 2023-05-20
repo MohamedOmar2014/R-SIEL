@@ -30,7 +30,7 @@ function [Drawing_comparison,MSE_SINDy,MSE_SINDy_Constraint,MSE_UN_SINDy] = Resu
 
 % UN_DataSet_Torque: Data sets for the constrained torques (Google drive link)
 
-% joints:
+% joints: "R" for revolute and "P" for prismatic
 
 % (Outputs)
 % Drawing_comparison: The comparison figures
